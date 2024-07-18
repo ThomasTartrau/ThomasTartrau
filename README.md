@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am currently learning React & NextJS
+Hi 👋, I’m Thomas Tartrau, a 🇨🇵 fullstack developer and IT student. I am passionate about technology, innovation, and entrepreneurship.
 
 
 ## 🌐 Socials:
