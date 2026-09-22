@@ -12,14 +12,14 @@ I build web apps and open-source tooling for the Claude Code ecosystem, and I tr
 
 Most of my code lives on [GitLab](https://gitlab.com/ThomasTartrau); the highlights are mirrored here.
 
-### [n8n-nodes-claude-code-cli](https://github.com/ThomasTartrau/n8n-nodes-claude-code-cli) &nbsp;![stars](https://img.shields.io/github/stars/ThomasTartrau/n8n-nodes-claude-code-cli?style=flat&label=%E2%98%85&color=f59e0b) ![forks](https://img.shields.io/github/forks/ThomasTartrau/n8n-nodes-claude-code-cli?style=flat)
-Run Claude Code inside n8n workflows: automated code review, doc generation and bug fixes driven from visual pipelines. The most adopted community node of its kind. [![npm](https://img.shields.io/npm/dt/n8n-nodes-claude-code-cli?style=flat&logo=npm&label=npm%20installs&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-claude-code-cli)
+### [n8n-nodes-claude-code-cli](https://github.com/ThomasTartrau/n8n-nodes-claude-code-cli) &nbsp;![stars](https://img.shields.io/github/stars/ThomasTartrau/n8n-nodes-claude-code-cli?style=flat&label=%E2%98%85&color=f59e0b) ![forks](https://img.shields.io/github/forks/ThomasTartrau/n8n-nodes-claude-code-cli?style=flat) [![npm](https://img.shields.io/npm/dt/n8n-nodes-claude-code-cli?style=flat&logo=npm&label=npm%20installs&color=CB3837)](https://www.npmjs.com/package/n8n-nodes-claude-code-cli)
+Run Claude Code inside n8n workflows: automated code review, doc generation and bug fixes driven from visual pipelines. The most adopted community node of its kind.
 
-### [mcp-rtk](https://github.com/ThomasTartrau/mcp-rtk) &nbsp;![stars](https://img.shields.io/github/stars/ThomasTartrau/mcp-rtk?style=flat&label=%E2%98%85&color=f59e0b)
-A proxy that sits between Claude and any MCP server and cuts tool responses by 60-90% through an 8-stage filter pipeline. Saves context and speeds up agents. Rust, single binary, community presets. [![crates.io](https://img.shields.io/crates/d/mcp-rtk?style=flat&logo=rust&label=crates.io&color=000000)](https://crates.io/crates/mcp-rtk)
+### [mcp-rtk](https://github.com/ThomasTartrau/mcp-rtk) &nbsp;![stars](https://img.shields.io/github/stars/ThomasTartrau/mcp-rtk?style=flat&label=%E2%98%85&color=f59e0b) [![crates.io](https://img.shields.io/crates/d/mcp-rtk?style=flat&logo=rust&label=crates.io&color=000000)](https://crates.io/crates/mcp-rtk)
+A proxy that sits between Claude and any MCP server and cuts tool responses by 60-90% through an 8-stage filter pipeline. Saves context and speeds up agents. Rust, single binary, community presets.
 
-### [IronFlow](https://github.com/ThomasTartrau/ironflow) &nbsp;![stars](https://img.shields.io/github/stars/ThomasTartrau/ironflow?style=flat&label=%E2%98%85&color=f59e0b)
-A workflow orchestration engine in Rust. Workflows are defined as imperative code (no YAML, no DSL): state machines, parallel execution, approval gates, AI-agent steps, a React dashboard and Prometheus metrics. [![crates.io](https://img.shields.io/crates/d/ironflow-core?style=flat&logo=rust&label=crates.io&color=000000)](https://crates.io/crates/ironflow)
+### [IronFlow](https://github.com/ThomasTartrau/ironflow) &nbsp;![stars](https://img.shields.io/github/stars/ThomasTartrau/ironflow?style=flat&label=%E2%98%85&color=f59e0b) [![crates.io](https://img.shields.io/crates/d/ironflow-core?style=flat&logo=rust&label=crates.io&color=000000)](https://crates.io/crates/ironflow)
+A workflow orchestration engine in Rust. Workflows are defined as imperative code (no YAML, no DSL): state machines, parallel execution, approval gates, AI-agent steps, a React dashboard and Prometheus metrics.
 
 ### [Skill Radar](https://github.com/ThomasTartrau/skill-radar) &middot; [Claude Deck](https://github.com/ThomasTartrau/claude-deck)
 Skill Radar mines Claude Code session transcripts to auto-generate reusable skills. Claude Deck drives several Claude Code sessions in parallel, as a tmux TUI and a native macOS app (Tauri).
@@ -30,5 +30,6 @@ Rust (Axum, Tokio) &middot; TypeScript / React &middot; PostgreSQL &middot; Dock
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ThomasTartrau&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasTartrau&theme=dark&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=ThomasTartrau&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ThomasTartrau&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasTartrau&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
