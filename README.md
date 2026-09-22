@@ -27,3 +27,8 @@ Skill Radar mines Claude Code session transcripts to auto-generate reusable skil
 ## Stack
 
 Rust (Axum, Tokio) &middot; TypeScript / React &middot; PostgreSQL &middot; Docker / Kubernetes &middot; Claude Code / MCP
+
+## Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ThomasTartrau&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasTartrau&theme=dark&hide_border=true&layout=compact&langs_count=8)
